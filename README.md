@@ -5,57 +5,57 @@
 ## 🌱 Beginner Level:
 
 - Simple Calculator
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-js-projects/tree/main/simple%20calculator)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-js-projects/simple%20calculator/)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20calculator)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20calculator/)
 - To-Do List
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-js-projects/tree/main/todo%20app)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-js-projects/todo%20app/)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20app)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20app/)
 - Tip Calculator
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-js-projects/tree/main/tip%20calculator)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-js-projects/tip%20calculator/)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20calculator)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20calculator/)
 - Age Calculator
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-js-projects/tree/main/age%20calculator)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-js-projects/age%20calculator/)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20calculator)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20calculator/)
 - BMI Calculator
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-js-projects/tree/main/bmi%20calculator)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-js-projects/bmi%20calculator/)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20calculator)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20calculator/)
 
 - Digital Clock
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-js-projects/tree/main/digital%20clock)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-js-projects/digital%20clock/)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20clock)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20clock/)
 - Analog Clock
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/analog%20clock)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/analog%20clock)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20clock)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20clock)
 - Alarm Clock
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/alarm%20clock)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/alarm%20clock)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20clock)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20clock)
 - Pomodoro Timer
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/pomodoro%20timer)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/pomodoro%20timer)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20timer)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20timer)
 - Stopwatch
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/stopwatch)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/stopwatch)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip)
 
 
 ## 🔥 Intermediate Level:
 
 - Currency Converter
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/currency%20converter)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/currency%20converter)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20converter)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20converter)
 - Length Converter
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/length%20converter)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/length%20converter)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20converter)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20converter)
 - Weight Converter
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/weight%20converter)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/weight%20converter)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20converter)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20converter)
 - Data Size Converter
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/data%20size%20converter)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/data%20size%20converter)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20size%20converter)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20size%20converter)
 
 
 - Color Generator
-    - [Source Code](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/random%20color%20generator)
-    - [Live demo](https://dinil-thilakarathne.github.io/50-css-projects/random%20color%20generator)
+    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20color%20generator)
+    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20color%20generator)
 - Joke Generator
 - Emoji Generator
 - Password Generator
@@ -101,6 +101,6 @@ Are you ready to embark on this exciting adventure of mastering web development 
 
 ## Keep with touch
 
-- YouTube : [@sonacode]("https://www.youtube.com/@sonacode/videos")
-- GitHub : [Dinil Thilakarathne]("https://github.com/Dinil-Thilakarathne/")
-- Instagram : [@sona_code]("https://www.instagram.com/sona_code/")
+- YouTube : [@sonacode]("https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip")
+- GitHub : [Dinil Thilakarathne]("https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip")
+- Instagram : [@sona_code]("https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip")

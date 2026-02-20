@@ -5,57 +5,57 @@
 ## 🌱 Beginner Level:
 
 - Simple Calculator
-    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20calculator)
-    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20calculator/)
+    - [Source Code](https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip%20calculator)
+    - [Live demo](https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip%20calculator/)
 - To-Do List
-    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20app)
-    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20app/)
+    - [Source Code](https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip%20app)
+    - [Live demo](https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip%20app/)
 - Tip Calculator
-    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20calculator)
-    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20calculator/)
+    - [Source Code](https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip%20calculator)
+    - [Live demo](https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip%20calculator/)
 - Age Calculator
-    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20calculator)
-    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20calculator/)
+    - [Source Code](https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip%20calculator)
+    - [Live demo](https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip%20calculator/)
 - BMI Calculator
-    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20calculator)
-    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20calculator/)
+    - [Source Code](https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip%20calculator)
+    - [Live demo](https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip%20calculator/)
 
 - Digital Clock
-    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20clock)
-    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20clock/)
+    - [Source Code](https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip%20clock)
+    - [Live demo](https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip%20clock/)
 - Analog Clock
-    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20clock)
-    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20clock)
+    - [Source Code](https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip%20clock)
+    - [Live demo](https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip%20clock)
 - Alarm Clock
-    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20clock)
-    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20clock)
+    - [Source Code](https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip%20clock)
+    - [Live demo](https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip%20clock)
 - Pomodoro Timer
-    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20timer)
-    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20timer)
+    - [Source Code](https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip%20timer)
+    - [Live demo](https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip%20timer)
 - Stopwatch
-    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip)
-    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip)
+    - [Source Code](https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip)
+    - [Live demo](https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip)
 
 
 ## 🔥 Intermediate Level:
 
 - Currency Converter
-    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20converter)
-    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20converter)
+    - [Source Code](https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip%20converter)
+    - [Live demo](https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip%20converter)
 - Length Converter
-    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20converter)
-    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20converter)
+    - [Source Code](https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip%20converter)
+    - [Live demo](https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip%20converter)
 - Weight Converter
-    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20converter)
-    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20converter)
+    - [Source Code](https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip%20converter)
+    - [Live demo](https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip%20converter)
 - Data Size Converter
-    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20size%20converter)
-    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20size%20converter)
+    - [Source Code](https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip%20size%20converter)
+    - [Live demo](https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip%20size%20converter)
 
 
 - Color Generator
-    - [Source Code](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20color%20generator)
-    - [Live demo](https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip%20color%20generator)
+    - [Source Code](https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip%20color%20generator)
+    - [Live demo](https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip%20color%20generator)
 - Joke Generator
 - Emoji Generator
 - Password Generator
@@ -101,6 +101,6 @@ Are you ready to embark on this exciting adventure of mastering web development 
 
 ## Keep with touch
 
-- YouTube : [@sonacode]("https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip")
-- GitHub : [Dinil Thilakarathne]("https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip")
-- Instagram : [@sona_code]("https://raw.githubusercontent.com/cyran-kyle/50-js-projects/main/analog clock/50-js-projects-1.1-alpha.5.zip")
+- YouTube : [@sonacode]("https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip")
+- GitHub : [Dinil Thilakarathne]("https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip")
+- Instagram : [@sona_code]("https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip https://github.com/cyran-kyle/50-js-projects/raw/refs/heads/main/random color generator/js_projects_2.6.zip")
